@@ -44,7 +44,7 @@ Exemplo ( Você está livre parar alterar os campos e formatos )
 * [Obrigatório] O readme.md conter as instruções para cada enpoint.
 * [Desejavel] que disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com)
 
-# Tecnologias Back-end (Obrigatório):
+# Tecnologias Back-End (Obrigatório):
 * Spring Boot;
 * Banco relacional ou não relacional (livre escolha);
 
