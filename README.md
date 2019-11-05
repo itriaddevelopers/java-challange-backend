@@ -38,14 +38,14 @@ Os donos precisam de relatórios de faturamento por período. Não aceitar entra
 ```
 
 # Instruções 
-* [Obrigatório] dDsponibilizar o link do github para: daniel.mendonca@itriad.org.br
+* [Obrigatório] Dsponibilizar o link do github para: daniel.mendonca@itriad.org.br
 * [Obrigatório] O readme.md deve conter as instruções para buildar e iniciar o serviço.
 * [Obrigatório] O readme.md conter as instruções para cada enpoint.
 * [Desejavel] que disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com)
 
 # Tecnologias Back-end (Obrigatório):
 * Spring Boot;
-* Banco relacional ou não relacional é de livre escolha;
+* Banco relacional ou não relacional (livre escolha);
 
 
 # Diferenciais:
