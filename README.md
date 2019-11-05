@@ -39,7 +39,7 @@ Exemplo ( Você está livre parar alterar os campos e formatos )
 ```
 
 # Instruções 
-* [Obrigatório] Dsponibilizar o link do github para: daniel.mendonca@itriad.org.br
+* [Obrigatório] Dsponibilizar o link do github para: alex.melo@itriad.org.br
 * [Obrigatório] O readme.md deve conter as instruções para buildar e iniciar o serviço.
 * [Obrigatório] O readme.md conter as instruções para cada enpoint.
 * [Desejavel] que disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com)
@@ -55,4 +55,4 @@ Exemplo ( Você está livre parar alterar os campos e formatos )
 * Organização e clareza nas ideias;
 * Menos é mais, seja prático e não perca tempo com aspectos desnecessários;
 
-Use o contato do Daniel (daniel.mendonca@itriad.org.br) para sanar qualquer dúvida.
+Use o contato do Alex (alex.melo@itriad.org.br) para sanar qualquer dúvida.
