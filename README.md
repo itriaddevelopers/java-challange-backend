@@ -30,6 +30,7 @@ Os donos precisam de relatórios de faturamento por período. Não aceitar entra
 * O Backend deve possuir um endpoint para saída de veículos, onde ele receba a placa e devolva o valor a pagar. 
 * O Backend deve possuir um endpoint para mostrar um relatório (pode ser apenas em json) que devolva um resumo de Faturamento X Dia
 
+Exemplo ( Você está livre parar alterar os campos e formatos ) 
 ```json
   [
     { "day":1572957282288, "revenues":125.5 5},
